@@ -1,1 +1,1 @@
-This is readme file for git. HI EVERYONE
+This is readme file for git. HI EVERYONE. bye bye 
